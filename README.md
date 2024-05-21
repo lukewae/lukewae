@@ -1,5 +1,6 @@
 yo, currently working on python / react but looking to expand my knowledge :) 
 Will post side projects here
+Currently studying comp sci at QUT (year 1)
 
 <!--
 **lukewae/lukewae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
