@@ -1,4 +1,4 @@
-## yo, currently working on python / react but looking to expand my knowledge :) 
+yo, currently working on python / react but looking to expand my knowledge :) 
 Will post side projects here
 
 <!--
