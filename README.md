@@ -1,6 +1,6 @@
-yo, upcoming web / app dev looking to expand my knowledge :)
+yo, web / app dev looking to expand my knowledge
 - currently working on python / react
-- Currently studying comp sci at QUT (year 1)
+- Currently studying comp sci at QUT (year 2)
 - will be posting side projects here
 
 <!--
