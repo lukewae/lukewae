@@ -1,8 +1,8 @@
-yo, web / app dev looking to expand my knowledge
-- currently working on python / react
-- Currently studying comp sci at QUT (year 2)
-- will be posting side projects here
+web / app dev looking to expand my skills and build cool stuff
 
+Currently building more full-stack web apps and learning new technologies along the way
+3rd year Computer Science student at QUT
+Posting my side projects and random things I build here
 <!--
 **lukewae/lukewae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
